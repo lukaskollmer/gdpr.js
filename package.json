@@ -1,0 +1,9 @@
+{
+  "name": "gdpr.js",
+  "version": "1.0.0",
+  "description": "GDPR compliance for your node app",
+  "main": "main.js",
+  "repository": "https://github.com/lukaskollmer/gdpr.js",
+  "author": "Lukas Kollmer <lukas.kollmer@gmail.com>",
+  "license": "MIT"
+}
